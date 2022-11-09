@@ -28,4 +28,3 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Bootstrap](https://getbootstrap.com/)
 - [MySQL](https://www.mysql.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
-- [Visual Studio Code](https://code.visualstudio.com/)
